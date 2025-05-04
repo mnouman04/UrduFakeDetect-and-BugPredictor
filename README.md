@@ -68,7 +68,7 @@ The application uses pre-trained models by default. If you want to train your ow
 
 2. For Software Defect Prediction:
    - Follow the notebook `task2.ipynb`
-   - Use the provided CSV data in `data/software_defects.csv`
+   - Use the provided CSV data in `dataset.csv`
 
 ## 📊 Model Performance
 

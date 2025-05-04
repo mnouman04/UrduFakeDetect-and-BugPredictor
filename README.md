@@ -63,11 +63,11 @@ streamlit run app.py
 The application uses pre-trained models by default. If you want to train your own models:
 
 1. For Deepfake Detection:
-   - Follow the notebook `notebooks/urdu_deepfake_detection.ipynb`
+   - Follow the notebook `task1.ipynb`
    - Use the Urdu Deepfake Detection Dataset: `CSALT/deepfake_detection_dataset_urdu`
 
 2. For Software Defect Prediction:
-   - Follow the notebook `notebooks/software_defect_prediction.ipynb`
+   - Follow the notebook `task2.ipynb`
    - Use the provided CSV data in `data/software_defects.csv`
 
 ## 📊 Model Performance
